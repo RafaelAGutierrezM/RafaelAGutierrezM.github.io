@@ -1,11 +1,11 @@
 # main links links
 main:
 
-   - title: "CV"
-    url: /files/CurriculumVitae_ENG_02_2024.pdf/
+ - title: "CV"
+ url: /files/CurriculumVitae_ENG_02_2024.pdf/
 
-   - title: "Teaching"
-    url: /teaching/  
+ - title: "Teaching"
+  url: /teaching/  
 
 #  - title: "Talks"
 #    url: /talks/    
