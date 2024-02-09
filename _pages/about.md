@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Hi, I am Rafa."
+excerpt: "Hi, I am Rafa."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
-
-Hi, I am Rafa. 
+--- 
 
 I am a first year PhD  student in Formal Linguistics at [Universitat Pompeu Fabra](https://www.upf.edu/web/traduccio), where I am advised by [Louise McNally](https://www.upf.edu/web/mcnally), and a member of [GLiF](https://www.upf.edu/web/glif). In my PhD thesis, I explore the semantics of words that are derived from proper names from formal and probabilistic perspectives. Specifically, I deal with the problem of developing a semantic account that explains how the integration of the information from the proper name and the information from morphology is achieved when a word of this kind is derived. 
 
