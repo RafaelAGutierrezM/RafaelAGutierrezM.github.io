@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Hi, I am Rafa."
-excerpt: "Hi, I am Rafa."
+title: "Hi, I am Rafa :blush:"
+excerpt: "Hi, I am Rafa :blush:"
 author_profile: true
 redirect_from: 
   - /about/
