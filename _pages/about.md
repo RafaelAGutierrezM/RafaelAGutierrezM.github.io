@@ -14,7 +14,7 @@ My research interests lie in the interface between philosophy and linguistics. I
 
 Recent News
 ------
--	May, 2024_. I successfully defended my research plan. I thank [Katrin Erk](https://www.katrinerk.com), [Olivier Bonami](http://www.llf.cnrs.fr/fr/Gens/Bonami) and [Thomas Brochhagen](https://brochhagen.github.io) for their valuable comments and suggestions. 
+-	_May, 2024_. I successfully defended my research plan. I thank [Katrin Erk](https://www.katrinerk.com), [Olivier Bonami](http://www.llf.cnrs.fr/fr/Gens/Bonami) and [Thomas Brochhagen](https://brochhagen.github.io) for their valuable comments and suggestions. 
 -	_February, 2024_. [David Rey](https://filosofia.univalle.edu.co/personal/docentes-nombrados/2-filosofia/103-david-alejandro-rey-sampedro) and I are working on the organization of the online conference [Philosophy and Generative Grammar 2](https://sites.google.com/view/philosophy-generative-grammar2/home?authuser=4), which will take place in May.
 -	_January, 2024_. Abstract accepted at [Non-Bare Proper Names: Proper Names with Determiners and Modifiers in a Cross-Linguistic Perspective.](https://detmod.github.io/detmodkoln/home.html)
 -	_September, 2023_. I started my PhD at Univesitat Pompeu Fabra. 
