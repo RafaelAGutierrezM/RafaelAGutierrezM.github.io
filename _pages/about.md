@@ -14,7 +14,7 @@ My research interests lie in the interface between philosophy and linguistics. I
 
 Recent News
 ------
-- _October, 2024._ I have started the second year of my PhD. The goals for this year are: to complete the corpus study of words derived from proper nouns that I started in the first year, to formulate hypotheses about the semantic and morphological properties of these words, and to test these hypotheses by means of experiments.
+- _October, 2024._ I have started the second year of my PhD. The goals for this year are: to complete the corpus study of words derived from proper names that I started in the first year, to formulate hypotheses about the semantic and morphological properties of these words, and to test these hypotheses by means of experiments.
 - _September, 2024._ Nuo Xu and I have taken on the task of running the organization of the [GLiF](https://www.upf.edu/web/glif) seminars (a task we will be undertaking throughout this year). I am excited to work hand in hand with Nuo and to contribute to my research group in carrying out this task.
 - _August, 2024_. I participated in the [35th European Summer School on Logic, Language and Information (ESSLLI)](https://2024.esslli.eu). I was delighted to learn about very interesting developments in formal linguistics and to engage in dialogue with inspiring scholars.
 -	_May, 2024_. I successfully defended my research plan. I thank [Katrin Erk](https://www.katrinerk.com), [Olivier Bonami](http://www.llf.cnrs.fr/fr/Gens/Bonami) and [Thomas Brochhagen](https://brochhagen.github.io) for reading my project and offering valuable comments and suggestions. 
