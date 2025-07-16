@@ -16,7 +16,7 @@ Recent News
 ------
 
 - _July, 2025._ My paper "The morphological properties of words derived from proper names" was accepted for presentation at the [Fifth International Symposium of Morphology (ISMo 2025)](https://colloque-ismo2025.univ-lille.fr).
-- _June, 2025._ My paper "Proper names in complex words: towards a dual semantics for proper names" was accepted for presentation at the [XI Congreso de la Sociedad Española de Filosofía Analítica (SEFA 2025)](https://eventos.us.es/124755/detail/xi-congreso-de-la-sociedad-espanola-de-filosofia-analitica.html).
+- _June, 2025._ My essay "Proper names in complex words: towards a dual semantics for proper names" was accepted for presentation at the [XI Congreso de la Sociedad Española de Filosofía Analítica (SEFA 2025)](https://eventos.us.es/124755/detail/xi-congreso-de-la-sociedad-espanola-de-filosofia-analitica.html).
 - _June, 2025._ I gave a talk entitled “Proper names in complex words: towards an indexical approach to the meaning of WDPs” in one of the sessions of the [Graduate Reading Group (GRG)](http://www.ub.edu/grc_logos/grg.php) of [LOGOS (Research Group in Analytic Philosophy)](http://www.ub.edu/grc_logos/index.php).
 - _May, 2025._ My paper "A formal semantic analysis of the Spanish quantifier prefixes _multi-_ and _pluri-_" was accepted for presentation at [Sinn und Bedeutung 30 (SuB30)](https://vicom.info/sub30/).
 - _March, 2025._ My abstract entitled "Word Formation Processes in Proper Names and Common Nouns" was accepted for presentation at the [58th Annual Meeting of the Societas Linguistica Europaea (SLE 2025)](https://societaslinguistica.eu/sle2025/).
