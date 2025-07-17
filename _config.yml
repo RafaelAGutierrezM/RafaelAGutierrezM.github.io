@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rafael A. Gutiérrez M."
+title                    : "Rafael Gutiérrez"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
