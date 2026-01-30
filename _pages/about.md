@@ -14,7 +14,7 @@ My research interests lie in the interface between philosophy and linguistics. I
 
 Recent News
 ------
--	_January, 2025_. I have been invited to give a talk at a seminar organized by the [ROLLING research group](https://www.rolling.recerca.urv.cat/ca/) ([Universidad Rovira i Virgili](https://www.urv.cat/es/), Tarragona), to be held in the spring.
+-	_January, 2026_. I have been invited to give a talk at a seminar organized by the [ROLLING research group](https://www.rolling.recerca.urv.cat/ca/) ([Universidad Rovira i Virgili](https://www.urv.cat/es/), Tarragona), to be held in the spring.
 -	_October, 2025_. [David Rey](https://filosofia.univalle.edu.co/personal/docentes-nombrados/2-filosofia/103-david-alejandro-rey-sampedro) and I are working on the organization of the third edition of the online conference [Philosophy and Generative Grammar](https://sites.google.com/view/philosophy-generative-grammar3/home), which will take place on May 6–8, 2026.
 - _August, 2025._ I participated in another edition of [ESSLLI](https://2025.esslli.eu). It was a fantastic experience to gain firsthand insight into the latest work from philosophers, formal linguists, logicians, and computational linguists. I am grateful for the experience and for the wonderful friends I made during these two weeks in Bochum.
 - _August, 2025._ Nuo Xu and I have completed our term as [GLiF](https://www.upf.edu/web/glif) seminar coordinators. It was a pleasure working alongside Nuo, and I wish [Katerina Thomopoulou](https://www.researchgate.net/profile/Aikaterini-Thomopoulou), [Emanuela Pinna](https://www.researchgate.net/profile/Emanuela-Pinna), and Xiaomeng Sun, the new coordinators, the best of luck with their new role.
