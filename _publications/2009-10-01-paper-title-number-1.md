@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "A formal semantic analysis of Spanish quantifier prefixes multi- and pluri-"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2010-10-01-paper-title-number-1
+date: 2026-08-18
+venue: 'Proceedings of Sinn und Bedeutung 30'
+paperurl: 'https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1343'
+citation: 'Gutiérrez, Rafael. (2026). &quot; A formal semantic analysis of Spanish quantifier prefixes multi and pluri. I&quot; <i> Proceedings of Sinn und Bedeutung 30</i>. 30.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here]([http://academicpages.github.io/files/paper2.pdf](https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1343/1292))
