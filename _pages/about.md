@@ -14,6 +14,8 @@ My research interests lie in the interface between philosophy and linguistics. I
 
 Recent News
 ------
+- _August, 2026._ I am delighted to have received the Best Oral Presentation Award at the ESSLLI 2026 Student Session for my paper, “Towards a probabilistic semantic account of words derived from proper names".
+- _August, 2026._ Another summer, another two fantastic weeks at [ESSLLI](https://ufal.mff.cuni.cz/esslli-2026), filled with learning, stimulating discussions, new ideas, and new friendships. This year, I also had the opportunity to participate in the Students Session, where I presented my paper, "Towards a probabilistic semantic account of words derived from proper names".
 - _March, 2026._ Our paper "Mental files, causal chains, and belief reports" have been accepted for presentation at the [8th Philosophy of Language and Mind Network Conference (PLM8)](https://eventum.upf.edu/142984/detail/8th-philosophy-of-language-and-mind-network-conference-plm8.html) (with [David Rey](https://filosofia.univalle.edu.co/personal/docentes-nombrados/2-filosofia/103-david-alejandro-rey-sampedro) and Andrés Rubio Krohne).
 -	_February, 2026_. I gave a talk titled "[Words derived from proper names: data, theory, and analysis](https://www.upf.edu/web/traduccio/inici/-/asset_publisher/T7gcoUNytM6c/content/26-02-2026-seminari-del-glif/maximized)" at a [GLiF seminar](https://www.upf.edu/web/glif/glif-seminars).
 -	_January, 2026_. I have been invited to give a talk at a seminar organized by the [ROLLING research group](https://www.rolling.recerca.urv.cat/ca/) ([Universidad Rovira i Virgili](https://www.urv.cat/es/), Tarragona), to be held in the spring.
