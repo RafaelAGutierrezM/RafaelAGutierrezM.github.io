@@ -1,15 +1,9 @@
 ---
-title: "Paper Title Number 2"
+title: "Towards a probabilistic semantic account of words derived from proper names"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2026-08-31
+venue: 'Proceedings of the  ESSLLI 2026 Student Session'
+paperurl: 'https://drive.google.com/file/d/1XPSwefVQDCoPaTh7sTw4mTsKPIvPjL_i/view'
+citation: 'Gutiérrez, Rafael. (2026). &quot;Towards a probabilistic semantic account of words derived from proper names&quot;. In: Ari Joshi and David Müller. <i>Proceedings of the  ESSLLI 2026 Student Session</I>, 125-134.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
