@@ -12,7 +12,7 @@ I am a final-year PhD student in Formal Linguistics at [Universitat Pompeu Fabra
 
 My research interests lie in the interface between philosophy and linguistics. In Bogotá, I did a B.A. in Philosophy (2017), a B.A. in Linguistics (2019) and a M.A. in Philosophy (2022). In my [M.A.  thesis](https://repositorio.unal.edu.co/handle/unal/81311), I explored the nature of spatial concepts (a problem from the philosophy of mind) using semantic descriptions of spatial terms as a tool to carry out the conceptual analysis. In Barcelona, I studied a M.A. in Theoretical and Applied Linguistics (2023). In my [second M.A. thesis](https://repositori.upf.edu/handle/10230/58002), I started approaching  the semantics of words derived from proper names and the problems that come with it. Some of these problems are different instantiations of the traditional issues (well known by philosophers and linguists) concerning the content of proper names. 
 
-Recent News
+News
 ------
 - _October, 2026._ Our paper, "Entity representations shed light on the variable felicity of outbound anaphora" (co-authored with [Louise McNally](https://www.upf.edu/web/mcnally)), has been accepted for poster presentation at the [25th Amsterdam Colloquium](https://events.illc.uva.nl/AC/AC2026/Conference/).
 - _October, 2026._ Starting on October 15, I will undertake a two-month research stay at the University of Potsdam. During this time, I will be joining the Semantics Group, headed by [Malte Zimmermann](https://www.ling.uni-potsdam.de/~zimmermann/), and working with [Peter Sutton](https://peter-sutton.github.io).
